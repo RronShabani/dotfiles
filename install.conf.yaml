@@ -4,5 +4,8 @@
 
 - clean: ['~']
 
+- link:
+    ~/.config/tmux: tmux
+
 - shell:
   - [git submodule update --init --recursive, Installing submodules]
