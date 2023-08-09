@@ -6,6 +6,7 @@
 
 - link:
     ~/.config/tmux: tmux
+    ~/.config/alacritty: alacritty
 
 - shell:
   - [git submodule update --init --recursive, Installing submodules]
